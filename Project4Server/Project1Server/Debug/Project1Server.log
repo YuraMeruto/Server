@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\大樹\desktop\winsock\project3server\project1server\main.cpp(12): warning C4101: 'clientin': ローカル変数は 1 度も使われていません。
+c:\users\大樹\desktop\winsock\project3server\project1server\main.cpp(15): warning C4101: 'recvbuf': ローカル変数は 1 度も使われていません。
+  Project1Server.vcxproj -> C:\Users\大樹\Desktop\winsock\Project3Server\Debug\Project1Server.exe
+  Project1Server.vcxproj -> C:\Users\大樹\Desktop\winsock\Project3Server\Debug\Project1Server.pdb (Partial PDB)
